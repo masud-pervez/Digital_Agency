@@ -2,7 +2,7 @@ html{
   scroll-behavior: smooth;
 }
 .navbar{
-  background-image: linear-gradient(to right,#44572c,#405f64)!important;
+  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
 }
 .navabr-nav .nav-item .nav-link{
   color: white !important ;
@@ -11,7 +11,7 @@ html{
 
 /* Home section */
 #Home{
-  background-image: linear-gradient(to right,#44572c,#405f64)!important;
+  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
   color: white;
 }
 #Home a img{
@@ -40,7 +40,7 @@ html{
 }
 
 .services-button {
-  background-image: linear-gradient(to right,#b3dd7c,#b1d9e0)!important;
+  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
   color: white !important;
   border: none;
   width: 120px;
@@ -51,8 +51,8 @@ html{
 }
 
 .user-image{
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
 }
 .test_border{
   border-left: 5px solid #7b1798 ;
@@ -71,11 +71,11 @@ html{
   transition: all 0.5s;
 }
 #footer{
-  background-image: linear-gradient(to right,#b3dd7c,#b1d9e0)!important;
+  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
 }
 #footer .fas {
   font-size: 20px;
-  background-image: linear-gradient(to right,#0ad4db,#74e049)!important;
+  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -84,7 +84,7 @@ html{
   text-align: center;
 }
 #footerbtn{
-  background-image: linear-gradient(to right,#b3dd7c,#b1d9e0)!important;
+  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
   margin-top: 20px;
   border: none!important;
   border-radius: 0!important;
