@@ -13,6 +13,7 @@ html{
 #Home{
   background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
   color: white;
+  /* height: 100vh; */
 }
 #Home a img{
   width: 60px;
@@ -30,13 +31,14 @@ html{
 .title::after{
   content: '';
   display: block;
-  background: #7b1798;
+  background: #365daf;
   height: 5px;
   width: 200px;
   margin: auto;
 }
 .service_img{
-  width: 100px;
+  width: 250px;
+  height: 150px;
 }
 
 .services-button {
@@ -55,7 +57,7 @@ html{
   height: 150px;
 }
 .test_border{
-  border-left: 5px solid #7b1798 ;
+  border-left: 5px solid #365daf ;
   border-radius: 2px;
 }
 /* social */
@@ -95,7 +97,6 @@ html{
   width: 100%;
 }
 .navbar .navbar-nav .nav-item .nav-link.active {
-  border-bottom: 3px solid #e62abd;
+  border-bottom: 3px solid #42e718;
   transition: all 0.3s;
-
 }
