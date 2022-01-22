@@ -1,0 +1,101 @@
+html{
+  scroll-behavior: smooth;
+}
+.navbar{
+  background-image: linear-gradient(to right,#44572c,#405f64)!important;
+}
+.navabr-nav .nav-item .nav-link{
+  color: white !important ;
+  font-weight: 600;
+}
+
+/* Home section */
+#Home{
+  background-image: linear-gradient(to right,#44572c,#405f64)!important;
+  color: white;
+}
+#Home a img{
+  width: 60px;
+  margin-right: 7px;
+}
+#Home a {
+ color: white;
+ text-decoration: none;
+}
+
+.wave-banner{
+  width: 100%;
+}
+/* services */
+.title::after{
+  content: '';
+  display: block;
+  background: #7b1798;
+  height: 5px;
+  width: 200px;
+  margin: auto;
+}
+.service_img{
+  width: 100px;
+}
+
+.services-button {
+  background-image: linear-gradient(to right,#b3dd7c,#b1d9e0)!important;
+  color: white !important;
+  border: none;
+  width: 120px;
+  height: 40px;
+  margin-left: auto !important;
+  border-radius: 20px !important;
+  margin-top: 20px;
+}
+
+.user-image{
+  width: 100px;
+  height: 100px;
+}
+.test_border{
+  border-left: 5px solid #7b1798 ;
+  border-radius: 2px;
+}
+/* social */
+
+#social{
+  background: #f8f9fa;
+}
+.social_image{
+  width: 60px;
+}
+.social_image:hover{
+  transform:translateY(-10px);
+  transition: all 0.5s;
+}
+#footer{
+  background-image: linear-gradient(to right,#b3dd7c,#b1d9e0)!important;
+}
+#footer .fas {
+  font-size: 20px;
+  background-image: linear-gradient(to right,#0ad4db,#74e049)!important;
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  padding-top: 7px;
+  margin-right: 10px;
+  text-align: center;
+}
+#footerbtn{
+  background-image: linear-gradient(to right,#b3dd7c,#b1d9e0)!important;
+  margin-top: 20px;
+  border: none!important;
+  border-radius: 0!important;
+  padding: 8px 15px;
+  color: white;
+}
+.wave2{
+  width: 100%;
+}
+.navbar .navbar-nav .nav-item .nav-link.active {
+  border-bottom: 3px solid #e62abd;
+  transition: all 0.3s;
+
+}
