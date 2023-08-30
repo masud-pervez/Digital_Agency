@@ -1,48 +1,48 @@
-html{
+html {
   scroll-behavior: smooth;
 }
-.navbar{
-  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
+.navbar {
+  background-image: linear-gradient(to right, #365daf, #3ec9c9) !important;
 }
-.navabr-nav .nav-item .nav-link{
+.navabr-nav .nav-item .nav-link {
   color: white !important ;
   font-weight: 600;
 }
 
 /* Home section */
-#Home{
-  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
+#Home {
+  background-image: linear-gradient(to right, #365daf, #3ec9c9) !important;
   color: white;
   /* height: 100vh; */
 }
-#Home a img{
+#Home a img {
   width: 60px;
   margin-right: 7px;
 }
 #Home a {
- color: white;
- text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
-.wave-banner{
+.wave-banner {
   width: 100%;
 }
 /* services */
-.title::after{
-  content: '';
+.title::after {
+  content: "";
   display: block;
   background: #365daf;
   height: 5px;
   width: 200px;
   margin: auto;
 }
-.service_img{
+.service_img {
   width: 250px;
   height: 150px;
 }
 
 .services-button {
-  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
+  background-image: linear-gradient(to right, #365daf, #3ec9c9) !important;
   color: white !important;
   border: none;
   width: 120px;
@@ -52,32 +52,32 @@ html{
   margin-top: 20px;
 }
 
-.user-image{
+.user-image {
   width: 150px;
   height: 150px;
 }
-.test_border{
-  border-left: 5px solid #365daf ;
+.test_border {
+  border-left: 5px solid #365daf;
   border-radius: 2px;
 }
 /* social */
 
-#social{
+#social {
   background: #f8f9fa;
 }
-.social_image{
+.social_image {
   width: 60px;
 }
-.social_image:hover{
-  transform:translateY(-10px);
+.social_image:hover {
+  transform: translateY(-10px);
   transition: all 0.5s;
 }
-#footer{
-  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
+#footer {
+  background-image: linear-gradient(to right, #365daf, #3ec9c9) !important;
 }
 #footer .fas {
   font-size: 20px;
-  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
+  background-image: linear-gradient(to right, #365daf, #3ec9c9) !important;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -85,15 +85,15 @@ html{
   margin-right: 10px;
   text-align: center;
 }
-#footerbtn{
-  background-image: linear-gradient(to right,#365daf,#3ec9c9)!important;
+#footerbtn {
+  background-image: linear-gradient(to right, #365daf, #3ec9c9) !important;
   margin-top: 20px;
-  border: none!important;
-  border-radius: 0!important;
+  border: none !important;
+  border-radius: 0 !important;
   padding: 8px 15px;
   color: white;
 }
-.wave2{
+.wave2 {
   width: 100%;
 }
 .navbar .navbar-nav .nav-item .nav-link.active {
